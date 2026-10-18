@@ -37,6 +37,6 @@ function App() {
       {showProducts && <ProductList />}
     </>
   )
-}
+} 
 
 export default App
